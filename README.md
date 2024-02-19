@@ -7,3 +7,5 @@ The Pizza Sales Power BI Project offers a comprehensive analysis of sales data f
 
 ![image](https://github.com/harika1795/Pizza-Sales/assets/153234284/3cf512de-577f-4ce2-a6c4-382768d1f67c)
 
+C:\Users\Harika\Documents\pizzanew.pbix
+
